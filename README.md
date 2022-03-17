@@ -19,4 +19,17 @@
 4. mengahapus data pada label input
 
   ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/resetTxTField.png)
-5.  
+  
+  ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/resetTxTField_updt.png)
+  
+  ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/resetTxTField_delete.png)
+  
+5. update tabel
+
+  ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/updatetable.png)
+  
+6. delete table
+
+  ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/confirdelete.png)
+  
+  ![alt text](https://github.com/aliefabdillah/LATIHAN5DBPO2022/blob/main/screenshot5/deletedtable.png)
